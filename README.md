@@ -1,8 +1,8 @@
 
 ## We came, we saw, we hacked!
-##How to win a Big Data hackathon
+## How to win a Big Data hackathon
 
-####Friday 2:05 PM–2:50 PM | Track 2
+#### Friday 2:05 PM–2:50 PM | Track 2
 
 
 Eloisa Tran is a Data Scientist and Tech Community Organizer. On May 20th, 2017 Eloisa was part of the Judge Panel at a nationwide Hackathon - ExpeditionHacks Seattle. T-Mobile/Amazon Big Data nationwide Hackathon – Awarded Eloisa the 'Honorable Mention' for developing the Best Big Data Model at the event on March 26, 2017. She is also Six Sigma certified, with 8+ years of practical experience applying statistical analysis and models for improving KPIs at Fortune 500 companies in the area of business intelligence and quality control for the automotive manufacturing industry. Eloisa has an expertise in enterprise customer negotiation involving multi-million dollar projects, her portfolio includes: Fiat Chrysler and Volkswagen Group. 
